@@ -2,7 +2,7 @@
 Codes for running UNet on RTM images seen in Jreij, S., Trainor-Guitton, W., Morphew, M., and Lim Chen Ning, I., 2021, The Value of Information from Horizontal Distributed Acoustic Sensing Compared to Multicomponent Geophones via Machine Learning: Journal of Energy Resources Technology, v. 143, doi: https://doi.org/10.1115/1.4048051.
 
 U-net for fault detection below the Brady National Laboratory
-Quickstart guide by Michael Morphew (May 2019), modified by W. Trainor-Guitton (Nov 2020). The generated .npy are available open request (wtrainor@gmail.com, too big to put on github).
+Quickstart guide by Michael Morphew (May 2019), modified by W. Trainor-Guitton (Nov 2020). The generated .npy are available upon request (wtrainor@gmail.com, too big to put on github).
 
 DATA PREPROCESSING
 Step 1. Run your simulation in Mio, generating many hh files
